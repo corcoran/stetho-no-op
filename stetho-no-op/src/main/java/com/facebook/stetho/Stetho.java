@@ -27,10 +27,6 @@ public class Stetho {
 
     }
 
-    public static class InspectorModulesProvider {
-
-    }
-
     public static class InitializerBuilder {
 
         public InitializerBuilder enableDumpapp(DumperPluginsProvider provider) {
